@@ -1,6 +1,7 @@
 {
     "ports": {
         "9000": {
+            "title": "Owner",
             "pages": {
                 "calender": {
                     "url": "http://local.wix.com:9000/#/scheduler/owner/calendar",
@@ -37,6 +38,7 @@
             }
         },
         "9100": {
+            "title": "Client",
             "pages": {
                 "desktop": {
                     "url": "http://local.pizza.wixpress.com:9100/#/scheduler/visitor/individual/services",
