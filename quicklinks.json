@@ -1,0 +1,56 @@
+{
+    "ports": {
+        "9000": {
+            "pages": {
+                "calender": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/calendar",
+                    "icon": "calendar-alt"
+                },
+                "staff": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/staff",
+                    "icon": "people-carry"
+                },
+                "offerings": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/offerings",
+                    "icon": "hand-holding-usd"
+                },
+                "settings": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/bookings-options",
+                    "icon": "cog"
+                },
+                "availablity": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/calendar-settings",
+                    "icon": "concierge-bell"
+                },
+                "policy": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/booking-policy",
+                    "icon": "gavel"
+                },
+                "reminders": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/email-reminder",
+                    "icon": "bell"
+                },
+                "forms": {
+                    "url": "http://local.wix.com:9000/#/scheduler/owner/bookings-form-settings",
+                    "icon": "file-signature"
+                }
+            }
+        },
+        "9100": {
+            "pages": {
+                "desktop": {
+                    "url": "http://local.pizza.wixpress.com:9100/#/scheduler/visitor/individual/services",
+                    "icon": "desktop"
+                },
+                "mobile": {
+                    "url": "http://local.pizza.wixpress.com:9100/mobile.html#/scheduler/visitor/individual/services",
+                    "icon": "mobile-alt"
+                },
+                "settings": {
+                    "url": "http://local.pizza.wixpress.com:9100/settings.html#",
+                    "icon": "cog"
+                }
+            }
+        }
+    }
+}
