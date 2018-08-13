@@ -41,11 +41,11 @@
             "title": "Client",
             "pages": {
                 "desktop": {
-                    "url": "http://local.pizza.wixpress.com:9100/#/scheduler/visitor/individual/services",
+                    "url": "http://local.pizza.wixpress.com:9100/index.html#",
                     "icon": "desktop"
                 },
                 "mobile": {
-                    "url": "http://local.pizza.wixpress.com:9100/mobile.html#/scheduler/visitor/individual/services",
+                    "url": "http://local.pizza.wixpress.com:9100/mobile.html#",
                     "icon": "mobile-alt"
                 },
                 "settings": {
