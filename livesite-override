@@ -1,8 +1,0 @@
-{
-    "rules": [
-        {
-            "artifact": "scheduler-client",
-            "newBaseUrl": "https://local.pizza.wixpress.com:9100/"
-        }
-    ]
-}
