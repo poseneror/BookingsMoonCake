@@ -4,11 +4,13 @@
             "artifact": "scheduler-client",
             "newBaseUrl": "https://local.pizza.wixpress.com:9100/"
         },
+        {
             "artifact": "scheduler-owner-statics",
-            "newBaseUrl": "http://local.wix.com:9000/"
+            "newBaseUrl": "https://local.wix.com:9000/"
         },
+        {
             "artifact": "scheduler-widget",
-            "newBaseUrl": "http://local.wix.com:9200/"
+            "newBaseUrl": "https://local.wix.com:9200/"
         }
     ]
 }
