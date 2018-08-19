@@ -53,6 +53,19 @@
                     "icon": "cog"
                 }
             }
+        },
+        "9200": {
+            "title": "Widget",
+            "pages": {
+                "widget": {
+                    "url": "http://local.wix.com:9200/widget-viewer.html",
+                    "icon": "desktop"
+                },
+                "settings": {
+                    "url": "http://local.wix.com:9200/settings.html",
+                    "icon": "cog"
+                }
+            }
         }
     }
 }
