@@ -67,5 +67,18 @@
                 }
             }
         }
+        "5000": {
+            "title": "BO Staff",
+            "pages": {
+                "staff list": {
+                    "url": "http://localhost:5000/business-manager/82815868-eda8-5254-b707-efce8fa4ea7a/bookings/staff",
+                    "icon": "people-carry"
+                },
+                "staff form": {
+                    "url": "http://localhost:5000/business-manager/82815868-eda8-5254-b707-efce8fa4ea7a/bookings/staff/form/new",
+                    "icon": "calendar-alt"
+                }
+            }
+        }
     }
 }
