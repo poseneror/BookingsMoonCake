@@ -1,0 +1,19 @@
+{
+    "artifacts": [
+        {
+            "artifact": "scheduler-client",
+        },
+        {
+            "artifact": "scheduler-owner-statics",
+        },
+        {
+            "artifact": "scheduler-widget",
+        },
+        {
+            "artifact": "bookings-widget",
+        },
+        {
+            "artifact": "bookings-widget-viewer",
+        }
+    ]
+}
